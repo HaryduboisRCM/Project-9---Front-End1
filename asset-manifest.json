@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Project-9---Front-End/static/css/main.7a3a1b8a.chunk.css",
-    "main.js": "/Project-9---Front-End/static/js/main.b54da7c3.chunk.js",
-    "main.js.map": "/Project-9---Front-End/static/js/main.b54da7c3.chunk.js.map",
-    "runtime-main.js": "/Project-9---Front-End/static/js/runtime-main.5391a431.js",
-    "runtime-main.js.map": "/Project-9---Front-End/static/js/runtime-main.5391a431.js.map",
-    "static/js/2.d3427f50.chunk.js": "/Project-9---Front-End/static/js/2.d3427f50.chunk.js",
-    "static/js/2.d3427f50.chunk.js.map": "/Project-9---Front-End/static/js/2.d3427f50.chunk.js.map",
-    "index.html": "/Project-9---Front-End/index.html",
-    "precache-manifest.a5ce5fb59b9b1f0a3561779a4b0979c8.js": "/Project-9---Front-End/precache-manifest.a5ce5fb59b9b1f0a3561779a4b0979c8.js",
-    "service-worker.js": "/Project-9---Front-End/service-worker.js",
-    "static/css/main.7a3a1b8a.chunk.css.map": "/Project-9---Front-End/static/css/main.7a3a1b8a.chunk.css.map",
-    "static/js/2.d3427f50.chunk.js.LICENSE.txt": "/Project-9---Front-End/static/js/2.d3427f50.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Project-9---Front-End/static/media/event image 1.33ef4db5.jpg"
+    "main.css": "/Project-9---Front-End1/static/css/main.e487fbbd.chunk.css",
+    "main.js": "/Project-9---Front-End1/static/js/main.28cd0b53.chunk.js",
+    "main.js.map": "/Project-9---Front-End1/static/js/main.28cd0b53.chunk.js.map",
+    "runtime-main.js": "/Project-9---Front-End1/static/js/runtime-main.0485d683.js",
+    "runtime-main.js.map": "/Project-9---Front-End1/static/js/runtime-main.0485d683.js.map",
+    "static/js/2.d3427f50.chunk.js": "/Project-9---Front-End1/static/js/2.d3427f50.chunk.js",
+    "static/js/2.d3427f50.chunk.js.map": "/Project-9---Front-End1/static/js/2.d3427f50.chunk.js.map",
+    "index.html": "/Project-9---Front-End1/index.html",
+    "precache-manifest.a6055ceba13535d2b8bf3ccf180eebe1.js": "/Project-9---Front-End1/precache-manifest.a6055ceba13535d2b8bf3ccf180eebe1.js",
+    "service-worker.js": "/Project-9---Front-End1/service-worker.js",
+    "static/css/main.e487fbbd.chunk.css.map": "/Project-9---Front-End1/static/css/main.e487fbbd.chunk.css.map",
+    "static/js/2.d3427f50.chunk.js.LICENSE.txt": "/Project-9---Front-End1/static/js/2.d3427f50.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Project-9---Front-End1/static/media/event image 1.33ef4db5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5391a431.js",
+    "static/js/runtime-main.0485d683.js",
     "static/js/2.d3427f50.chunk.js",
-    "static/css/main.7a3a1b8a.chunk.css",
-    "static/js/main.b54da7c3.chunk.js"
+    "static/css/main.e487fbbd.chunk.css",
+    "static/js/main.28cd0b53.chunk.js"
   ]
 }
