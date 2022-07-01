@@ -8,14 +8,13 @@
     "@testing-library/user-event": "^7.2.1",
     "axios": "^0.19.2",
     "bootstrap": "^5.1.3",
-    "gh-pages": "^4.0.0",
     "git-splat": "^1.0.4",
     "react": "^16.13.1",
     "react-bootstrap": "^2.4.0",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://haryduboisrcm.github.io/Project-9---Front-End/",
+  "homepage": "https://haryduboisrcm.github.io/Project-9---Front-End1/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
